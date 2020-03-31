@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Publications"
 type: "page"
 ---
 
