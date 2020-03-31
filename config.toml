@@ -4,14 +4,13 @@ title = "Vitae"
 theme = "hugo-vitae"
 paginate = 5
 
-copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "© Copyright Sam Miller, 2020 | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
-pygmentsstyle = "colorful"
+pygmentsstyle = "friendly"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "hugo-vitae"
+# googleAnalytics = "UA-123-45"
 
 [taxonomies]
 	tag = "tags"
@@ -21,12 +20,10 @@ disqusShortname = "hugo-vitae"
 	subtitle = "[Vitae](https://github.com/dataCobra/hugo-vitae) is a blog theme for Hugo that focuses on your content."
 
 	# Optional 80x80 avatar image.
-	avatar = "/img/vitae.jpg"
+	# avatar = "/img/vitae.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
-
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
 # Nav.
 [[menu.main]]
@@ -52,9 +49,14 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"
-url = "https://github.com/dataCobra/hugo-vitae"
+url = "https://github.com/smillerc"
 
 [[params.social]]
-name = "RSS"
-icon = "fas fa-rss"
-url = "/index.xml"
+name = "ResearchGate"
+icon = "fab fa-researchgate"
+url = "https://www.researchgate.net/profile/Samuel_Miller2"
+
+[[params.social]]
+name = "ORCiD"
+icon = "fab fa-orcid"
+url = "https://orcid.org/0000-0001-6452-2308"

@@ -38,7 +38,7 @@ body {
 }
 
 a {
-    color: #3700ff;
+    color: #284fa1;
     text-decoration: none;
     word-break: break-word;
 }
@@ -187,6 +187,7 @@ ul {
 
 .highlight {
     background: 0 0;
+    line-height: 1.0em;
     background-color: #FAFAFA;
 }
 
