@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/smillerc/smillerc.github.io"
 languageCode = "en-us"
-title = "Waves and Bytes"
+title = "Scientific Development"
 theme = "hugo-vitae"
 paginate = 5
 

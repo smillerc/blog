@@ -2,10 +2,14 @@
 layout: post
 title: Neat new features of Fortran 2018
 tags: fortran
+date: 2020-05-10
 ---
 
 
 ## Assumed Rank Arrays
+
+One new feature includes assumed rank arrays.
+
 ```fortran
 real(real64) function f(x)
   real(real64), intent(in) :: x(..)

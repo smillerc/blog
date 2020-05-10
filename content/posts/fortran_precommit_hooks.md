@@ -3,6 +3,7 @@ layout: post
 title: Useful pre-commit hooks for Fortran projects
 tags: fortran git
 category: development
+draft: true
 ---
 
 The contents of the `.pre-commit-config.yaml` file:
